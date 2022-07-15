@@ -1,0 +1,160 @@
+.dapp-core-ui-component {
+    display: contents /*! * Bootstrap v4.6.0 (https://getbootstrap.com/) * Copyright 2011-2021 The Bootstrap Authors * Copyright 2011-2021 Twitter, Inc. * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE) */;
+}
+.dapp-core-ui-component .toast-messages {
+    position: fixed;
+    bottom: 1rem;
+    left: 1rem;
+    right: 1rem;
+    z-index: 9999;
+}
+.dapp-core-ui-component .align-items-center {
+    align-items: center!important;
+}
+.dapp-core-ui-component .flex-column {
+    flex-direction: column!important;
+}
+.dapp-core-ui-component .d-flex {
+    display: flex!important;
+}
+.dapp-core-ui-component *, .dapp-core-ui-component :after, .dapp-core-ui-component :before {
+    box-sizing: border-box;
+}
+.py-4 {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+.bg-white {
+    --tw-bg-opacity: 1;
+    background-color: rgba(255,255,255,var(--tw-bg-opacity));
+}
+.w-full {
+    width: 100%;
+}
+.top-0 {
+    top: 0;
+}
+.fixed {
+    position: fixed;
+}
+.justify-center {
+    justify-content: center;
+}
+.flex {
+    display: flex;
+}
+.mx-4 {
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+.w-full {
+    width: 100%;
+}
+.u-text-semibold {
+    font-family: "Roboto Condensed",sans-serif;
+    font-style: normal;
+}
+.u-text-semibold {
+    font-weight: 500;
+}
+.justify-between {
+    justify-content: space-between;
+}
+.items-center {
+    align-items: center;
+}
+.h-full {
+    height: 100%;
+}
+.h-8 {
+    height: 2rem;
+}
+.mr-4 {
+    margin-right: 1rem;
+}
+.mx-6 {
+    margin-left: 1.5rem;
+    margin-right: 1.5rem;
+}
+.py-3 {
+    padding-top: 0.75rem;
+    padding-bottom: 0.75rem;
+}
+.block {
+    display: block;
+}
+.relative {
+    position: relative;
+}
+a {
+    text-decoration: none;
+}
+.items-center {
+    align-items: center;
+}
+.hidden {
+    display: none;
+}
+.mx-4 {
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+.max-w-screen-2xl {
+    max-width: 1402px;
+}
+.p-homepage_background {
+    z-index: 0;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(/static/media/bg-waves-gr.cff2543e.svg);
+}
+.object-center {
+    object-position: center;
+}
+.object-cover {
+    object-fit: cover;
+}
+.transform, .transform-gpu {
+    --tw-translate-x: 0;
+    --tw-translate-y: 0;
+    --tw-rotate: 0;
+    --tw-skew-x: 0;
+    --tw-skew-y: 0;
+    --tw-scale-x: 1;
+    --tw-scale-y: 1;
+}
+.col-span-12 {
+    grid-column: span 12/span 12;
+}
+.grid-cols-12 {
+    grid-template-columns: repeat(12,minmax(0,1fr));
+}
+.grid {
+    display: grid;
+}
+.py-10 {
+    padding-top: 2.5rem;
+    padding-bottom: 2.5rem;
+}
+.col-span-12 {
+    grid-column: span 12/span 12;
+}
+.c-card {
+    height: 100%;
+    border: 0.94958px solid #e8eaf1;
+    box-sizing: border-box;
+    box-shadow: 0 23.7395px 47.479px rgb(10 39 83 / 25%);
+    border-radius: 30px;
+    overflow: hidden;
+}
+@media only screen and (max-width: 587px) {
+.c-card_banner {
+    min-height: 175px;
+}
+}
+@media screen and (max-width: 600px) {
+    .col-span-12 {
+        position: relative;
+        top: 13%;
+    }
+}
